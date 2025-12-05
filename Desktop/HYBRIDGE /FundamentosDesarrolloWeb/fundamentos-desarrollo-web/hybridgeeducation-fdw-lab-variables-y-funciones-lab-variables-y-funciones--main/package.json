@@ -1,0 +1,17 @@
+{
+    "name": "lab-variables-y-funciones",
+    "version": "1.0.0",
+    "description": "Ejercicios de Javascript para practicar variables, constantes y funciones.",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha tests/*.js"
+    },
+    "author": "Hybridge Education",
+    "license": "ISC",
+    "devDependencies": {
+        "assert": "^2.0.0"
+    },
+    "dependencies": {
+        "mocha": "^10.6.0"
+    }
+}
